@@ -17,6 +17,10 @@ BSIT-3307
 
 </details>
 
+<details><summary>Images</summary>
+
+</details>
+
 <details><summary>Developer</summary>
     <div style="overflow: auto;">
     <h5>Hawak Carl Jonel V. <img src="https://static-00.iconduck.com/assets.00/facebook-icon-512x512-7a4en82u.png" style="height: 20px;width:25px;"></h5>
