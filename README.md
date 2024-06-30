@@ -10,9 +10,9 @@ BSIT-3307
   mobile application is to assist students in managing their tasks and deadlines that they need to accomplish.</details>
 
   <details><summary>Functionalities</summary> 
-    *Create and Add a Student Task
-    *Read or View the Student Task
-    *Delete a Task
+    * Create and Add a Student Task
+    * Read or View the Student Task
+    * Delete a Task
   </details>
 
 <details><summary>Developer</summary>
