@@ -3,7 +3,7 @@
 **Crampanion Brainy Student Task Tamer**
 
 <details><summary>Developer</summary>
-  ### Lagunsing John Carlo M.
+  # Lagunsing John Carlo M.
   
 </details>
 <details><summary>Read More</summary> 
