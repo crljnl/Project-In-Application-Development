@@ -3,7 +3,7 @@
 **Crampanion Brainy Student Task Tamer**
 
 <details><summary>Developer</summary>
-  <h3>Lagunsing John Carlo M.</h3>[![Facebook](https://example.com/fb-logo.png)](https://www.facebook.com/your-profile)
+  <h3>Lagunsing John Carlo M.</h3>[![Facebook](https://cdn-icons-png.flaticon.com/512/20/20673.png)]([https://www.facebook.com/your-profile)](https://www.facebook.com/c.lagunsing)
   
 </details>
 <details><summary>Read More</summary> 
