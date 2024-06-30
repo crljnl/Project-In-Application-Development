@@ -11,7 +11,7 @@ BSIT-3307
 
 <details><summary>Developer</summary>
     <div style="overflow: auto;">
-    <h5>Hawak Carl Jonel V. <img src="https://cdn.logojoy.com/wp-content/uploads/20230921104407/Facebook-logo-2015_2019-600x319.png" style="height: 20px;margin-top:2px;"></h5>
+    <h5>Hawak Carl Jonel V. <img src="https://cdn.logojoy.com/wp-content/uploads/20230921104407/Facebook-logo-2015_2019-600x319.png" style="height: 20px;margin-top:10px;"></h5>
     <h5>Lagunsing John Carlo M. <img src="image_url" style="float: right;"></h5>
     <h5>Luna Andrei B. <img src="image_url" style="float: right;"></h5>
   </div></details>
