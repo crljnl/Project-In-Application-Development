@@ -9,11 +9,13 @@ BSIT-3307
   by allowing them to create, edit, and delete tasks to set reminders. The main purpose and objective of this   
   mobile application is to assist students in managing their tasks and deadlines that they need to accomplish.</details>
 
-  <details><summary>Functionalities</summary> 
-    - Create and Add a Student Task
-    - Read or View the Student Task
-    - Delete a Task
-  </details>
+  <details><summary>Functionalities</summary>
+
+- Create and Add a Student Task
+- Read or View the Student Task
+- Delete a Task
+
+</details>
 
 <details><summary>Developer</summary>
     <div style="overflow: auto;">
