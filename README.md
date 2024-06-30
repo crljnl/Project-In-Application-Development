@@ -13,7 +13,7 @@
 <details><summary>Developer</summary>
     <h2>Hawak Carl Jonel V.</h2>
   <h2>Lagunsing John Carlo M.</h2> 
-  <h2>Luna Andrei B.</h2>
+  <h2>Luna Andrei B.</h2></details>
   
 
 
