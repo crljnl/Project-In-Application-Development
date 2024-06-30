@@ -3,8 +3,8 @@
 **Crampanion Brainy Student Task Tamer**
 
 <details><summary>Developer</summary>
-  <h3>Lagunsing John Carlo M.</h3>[![Facebook](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Ffacebook-circular-logo_20673&psig=AOvVaw2yxfiG8RQS301rA5Pe9CYb&ust=1719812961523000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODxzNjQgocDFQAAAAAdAAAAABAE)](https://www.facebook.com/c.lagunsing)
-  
+  <h3>Lagunsing John Carlo M.</h3>[![Facebook](https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg)](https://www.facebook.com/c.lagunsing)
+
 </details>
 <details><summary>Read More</summary> 
   The Crampanion Brainy Task Tamer is an mobile appplication that is designed specifically for students.
