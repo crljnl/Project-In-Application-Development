@@ -10,10 +10,11 @@ BSIT-3307
   mobile application is to assist students in managing their tasks and deadlines that they need to accomplish.</details>
 
 <details><summary>Developer</summary>
-    <h2>Hawak Carl Jonel V.</h2>
-  ![20673](https://github.com/JohnCarloLagunsing/Project-In-Application-Development/assets/148296916/0c513319-7ea8-48c1-b1f7-f469ceb77425)
-  <h2>Lagunsing John Carlo M.</h2> 
-  <h2>Luna Andrei B.</h2></details>
+    <div style="overflow: auto;">
+    <h2>Hawak Carl Jonel V. <img src="image_url" style="float: right;"></h2>
+    <h2>Lagunsing John Carlo M. <img src="image_url" style="float: right;"></h2>
+    <h2>Luna Andrei B. <img src="image_url" style="float: right;"></h2>
+  </div></details>
   
 
 
