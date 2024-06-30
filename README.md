@@ -3,7 +3,9 @@
 **Crampanion Brainy Student Task Tamer**
 
 <details><summary>Developer</summary>
-  <h3>Lagunsing John Carlo M.</h3>[![Facebook](https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css)](https://www.facebook.com/your-profile)
+  <h2>Lagunsing John Carlo M.</h2>
+  <h2>Luna Andrei B.</h2>
+  <h2>Hawak Carl Jonel V.</h2>
 
 
 </details>
