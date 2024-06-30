@@ -5,7 +5,8 @@
 </details>
 <details><summary>Read More</summary> 
   The Crampanion Brainy Task Tamer is an mobile appplication that is designed specifically for students.
-  It is a mobile application that helps manage and organize their tasks, assignments, and deadlines effectively by allowing them to create, edit, and delete tasks to set reminders. The main purpose and objective of this mobile application is to assist students in managing their tasks and deadlines that they need to accomplish.</details>
+  It is a mobile application that helps manage and organize their tasks, assignments, and deadline![Component 3](https://github.com/JohnCarloLagunsing/Project-In-Application-Development/assets/148296916/ccd4d319-c63f-4e13-b1d7-911b98d4be81)
+s effectively by allowing them to create, edit, and delete tasks to set reminders. The main purpose and objective of this mobile application is to assist students in managing their tasks and deadlines that they need to accomplish.</details>
 
 <details><summary>Developer</summary>
   <h2>Lagunsing John Carlo M.</h2> [![Facebook](https://cdn-icons-png.flaticon.com/256/20/20673.png)](https://www.facebook.com/c.lagunsing)
