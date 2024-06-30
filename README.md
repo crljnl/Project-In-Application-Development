@@ -3,7 +3,7 @@
 **Crampanion Brainy Student Task Tamer**  
 BSIT-3307
 
-<details><summary>Read More</summary> 
+<details><summary>Description</summary> 
   The Crampanion Brainy Task Tamer is an mobile appplication that is designed specifically for students.It  
   is a mobile application that helps manage and organize their tasks, assignments, and deadlines effectively  
   by allowing them to create, edit, and delete tasks to set reminders. The main purpose and objective of this   
@@ -13,7 +13,7 @@ BSIT-3307
 
 - Create and Add a Student Task
 - Read or View the Student Task
-- Delete a Task
+- Delete a Student Task 
 
 </details>
 
