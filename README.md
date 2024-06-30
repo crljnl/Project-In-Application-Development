@@ -11,7 +11,7 @@ BSIT-3307
 
 <details><summary>Developer</summary>
     <div style="overflow: auto;">
-    <h2>Hawak Carl Jonel V. <img src="https://static-00.iconduck.com/assets.00/facebook-icon-512x512-7a4en82u.png" style="float: right; height:20px; width:50px;"></h2>
+    <h2>Hawak Carl Jonel V. <img src="https://static-00.iconduck.com/assets.00/facebook-icon-512x512-7a4en82u.png" style="float: right; height:20px; width:25px;"></h2>
     <h2>Lagunsing John Carlo M. <img src="image_url" style="float: right;"></h2>
     <h2>Luna Andrei B. <img src="image_url" style="float: right;"></h2>
   </div></details>
