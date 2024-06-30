@@ -8,7 +8,7 @@
   It is a mobile application that helps manage and organize their tasks, assignments, and deadlines effectively by allowing them to create, edit, and delete tasks to set reminders. The main purpose and objective of this mobile application is to assist students in managing their tasks and deadlines that they need to accomplish.</details>
 
 <details><summary>Developer</summary>
-  <h2>Lagunsing John Carlo M.</h2>
+  <h2>Lagunsing John Carlo M.</h2> [![OpenAI Logo](https://upload.wikimedia.org/wikipedia/commons/4/4e/OpenAI_Logo.svg)](https://www.openai.com)
   <h2>Luna Andrei B.</h2>
   <h2>Hawak Carl Jonel V.</h2>
 
