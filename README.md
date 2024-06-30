@@ -1,7 +1,7 @@
 # Project In Application Development
 
 **Crampanion Brainy Student Task Tamer**
-  ```sh BSIT-3107
+
 
 
 <details><summary>Read More</summary> 
