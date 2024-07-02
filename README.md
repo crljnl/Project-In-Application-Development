@@ -18,7 +18,7 @@ BSIT-3307
 
 </details>
 
-<details><summary>Images</summary>
+<details><summary>UI</summary>
 
 </details>
 
