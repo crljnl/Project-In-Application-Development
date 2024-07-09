@@ -24,9 +24,18 @@ BSIT-3307
 
 <details><summary>Developer</summary>
     <div style="overflow: auto;">
-    <h5>Hawak Carl Jonel V. <img src="https://static-00.iconduck.com/assets.00/facebook-icon-512x512-7a4en82u.png" style="height: 20px;width:25px;"></h5>
-    <h5>Lagunsing John Carlo M. <img src="image_url" style="float: right;"></h5>
-    <h5>Luna Andrei B. <img src="image_url" style="float: right;"></h5>
+    <h5>Hawak, Carl Jonel V.
+    <a href="https://www.facebook.com/jonel.hawak" target="_blank">
+    <img src="https://static-00.iconduck.com/assets.00/facebook-icon-512x512-7a4en82u.png" style="height: 20px;width:25px;">
+    </a></h5>
+   <h5>Lagunsing, John Carlo M.
+    <a href="https://www.facebook.com/c.lagunsing" target="_blank">
+    <img src="https://static-00.iconduck.com/assets.00/facebook-icon-512x512-7a4en82u.png" style="height: 20px;width:25px;">
+    </a></h5>
+    <h5>Luna, Andrei B.
+    <a href="https://www.facebook.com/andrei.luna.980" target="_blank">
+    <img src="https://static-00.iconduck.com/assets.00/facebook-icon-512x512-7a4en82u.png" style="height: 20px;width:25px;">
+    </a></h5>
   </div></details>
   
 
